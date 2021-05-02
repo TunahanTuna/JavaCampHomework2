@@ -1,4 +1,4 @@
-# JavaCampHomework2
+# JAVA REACT KURSU GÜN 4 ÖDEV 2
 Engin Demiroğun Java/React kampının 4. günü verilen isterler için hazırlanmıştır.
 
 ## Ödevin Çıktısı
